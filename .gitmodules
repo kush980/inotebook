@@ -1,0 +1,6 @@
+[submodule "inotebook-backend"]
+	path = inotebook-backend
+	url = https://github.com/kush980/inotebook-backend.git
+[submodule "iNotebook-frontend"]
+	path = iNotebook-frontend
+	url = https://github.com/kush980/iNotebook-frontend.git
